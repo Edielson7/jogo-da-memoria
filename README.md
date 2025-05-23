@@ -31,13 +31,13 @@ Siga os passos abaixo para ter o projeto rodando em sua máquina local:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/nome-do-seu-repositorio.git](https://github.com/SEU_USUARIO/nome-do-seu-repositorio.git)
+    git clone [https://github.com/Edielson7/jogo-da-memoria.git)
     ```
-    *Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub e `nome-do-seu-repositorio` pelo nome real do seu repositório.*
+    *Substitua `Edielson7` pelo seu nome de usuário do GitHub e `jogo-da-memoria` pelo nome real do seu repositório.*
 
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd nome-do-seu-repositorio
+    cd jogo-da-memoria
     ```
 
 3.  **Abra o arquivo `index.html` em seu navegador:**
